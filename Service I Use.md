@@ -1,5 +1,3 @@
-* Apple Music 10 元/月
-* iCloud Storege 21 元/月
-* Netflix 93 港币/月
-* Spotify 9.99 美金/月
-* 1Password 3.99 美金/月
+* Apple One Premier US$29.95/month
+* Netflix HK$93/month
+* 1Password US$17.94/annual
